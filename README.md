@@ -2,6 +2,11 @@
 
 ## Hospital Management System Database Design and Implementation
 
-This project outlines schema of hospital database. 
-We implemented user defined functions and procedures to calculate bills of patients and generate   receipts.
-We performed data visualization using Tableau to understand the metrics and trends in pictorial graphs.
+Through this project we:-
+
+• Outlined schema and implemented user defined functions and procedures to calculate bills of patients and generates receipts
+
+• Managed database integrity, data generation and loading, query writing to fetch data and performance tuning
+
+• Performed data visualization using Tableau to understand the metrics and trends in pictorial graphs
+
